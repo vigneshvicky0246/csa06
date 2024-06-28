@@ -11,7 +11,7 @@ void reverseString(char *str) {
 }
 
 int main() {
-    char str[] = "Hello, World!";
+    char str[] = "1233";
     
     printf("Original String: %s\n", str);
     reverseString(str);

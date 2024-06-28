@@ -9,7 +9,7 @@ int stringLength(char *str) {
 }
 
 int main() {
-    char str[] = "Hello, World!";
+    char str[] = "HelloWorld!";
     
     int length = stringLength(str);
     printf("Length of String: %d\n", length);
